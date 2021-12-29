@@ -1,7 +1,7 @@
 Hi, my name is Dakota Moore.
 
 I recently graduated from Iowa State University of Science and Technology with a Bachelors
-of Science in Software Engineering in December 2020, with a 2.41 GPA.
+of Science in Software Engineering in December 2020, with a 2.46 GPA.
 
 I am very excited to apply the knowledge and experience gained during my education towards my career as a software engineer and developer.
 I am experienced with designing, testing, troubleshooting and debugging, deploying, and maintaining software using industry standard 
