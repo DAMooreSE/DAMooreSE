@@ -13,6 +13,7 @@ and Cyber Security as well.
 
 
 
+
 **Skills**
 
 * Extensive knowledge of Computer Science and software engineering methodologies, standard practices, and architecture designs.
@@ -27,6 +28,8 @@ and Cyber Security as well.
 * Able to create scripts for validation of data, software, testing, and procedure changes.
 
 
+
+
 **Experience**
 
 *Freelance Software Developer (October 2021 - Current)*
@@ -35,6 +38,8 @@ controlled remotely on another device. Project work includes standard software r
 documentation, meeting with a client, as well as using JavaScript, Node.JS, Firebase, React, Yarn, Microsoft
 Studio Code, git, and aperture to develop on MacOS.
 Project work can be found on github here https://github.com/DAMooreSE/codeClapper
+
+
 
 
 **Education**
