@@ -16,17 +16,18 @@ and Cyber Security as well.
 
 **Skills**
 
-* Extensive knowledge of Computer Science and software engineering methodologies, standard practices, and architecture designs.
-* Experience working in a small team to deliver solutions within an Agile methodology, whilst establishing quality, timeliness, and team-wide adherence to architectural practice and guidelines.
-* Knowledge and experience creating supporting documentation, such as Use-case diagrams, Architecture diagrams, project proposals, design documents, etc., for software development.
-* Experience using version control systems such as Git within a team environment where developers collaborate in code reviews to follow a CI/CD approach and Agile methodology.
-* Able to quickly learn new skills, development tools or platforms.
-* Experience designing and working with various data structures as well as manipulation of small and large data sets.
-* Able to troubleshoot and debug software and error data.
-* Experience supporting a software's lifecycle with quality assurance tasks, outlining test cases, acquiring test data, executing test cases and identifying defects prior to production.
-* Experience developing and deploying applications to a user interface using technologies such as JavaScript, Node.JS, Yarn, React, Firebase, and others.
-* Able to create scripts for validation of data, software, testing, and procedure changes.
-
+* Extensive knowledge of Computer Science and software engineering methodologies, standard practices, and architecture designs. 
+* Experience working in a small team to deliver solutions within an Agile (Scrum/XP) methodology, whilst establishing quality, timeliness, and team-wide adherence to architectural practice and guidelines. 
+* Knowledge and experience creating supporting documentation using UML standards, such as Use-case diagrams, Architecture diagrams, project proposals, design documents, etc., for software development. 
+* Proficient or experienced with Java, HTML, CSS, JavaScript, ReactJS, Node.JS, C, C++, SQL, and other languages/frameworks.
+* Experience with Imperative programming, Structured Programming, and Object-oriented programming as well as knowing the proper situations for each.
+* Background/knowledge in Cyber Security as well as Aerospace Engineering.
+* Able to quickly learn new skills, development tools, programming languages or platforms. 
+* I have software development experience using both full stack development as well as DevOps development.
+* Ability to troubleshoot and debug software development issues.
+* Experience supporting a software's lifecycle with quality assurance tasks, outlining test cases, acquiring test data, executing test cases and identifying defects prior to production. 
+* Experience developing and deploying applications to a user interface using technologies such as JavaScript, Node.JS, Yarn, React, Firebase, and others. 
+* I have knowledge and experience following standard software development practices, such as Agile (Scrum and XP), Continuous-Integration/Continuous-Development/Deployment (CI/CD), Test-driven development, etc, while working both alone and in a team. 
 
 
 
