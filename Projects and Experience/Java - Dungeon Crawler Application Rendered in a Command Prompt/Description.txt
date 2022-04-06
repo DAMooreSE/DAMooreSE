@@ -1,2 +1,0 @@
-COM S 327: Advanced Programming Techniques
-Classwork consisted of implementing additional functionality into a single software application weekly, where the application was a 2D dungeon crawler game that rendered inside a command prompt and was developed using C initially and then converted to C++.

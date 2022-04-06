@@ -1,4 +1,0 @@
-Dungeon Destroyer Game
-Rouge-lite 2D Dungeon Crawler Web Browser Game. Game developed using Phaser.IO engine that’s hosted locally using Node JS.
-Project used Phaser.IO, HTML, and CSS for the front-end, and Javascript, Node JS, and Phaser.IO for the backend
-Team followed an agile-based development process where we’d meet every week to discuss what’s been worked on, what needs worked on, what problems we’re having, and what we need to work on before the next meeting as well meeting with a “client” every 2 weeks to demo the progress our team has made and implement the feedback into our development plan for the next meeting.
