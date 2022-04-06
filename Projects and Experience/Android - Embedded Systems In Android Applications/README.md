@@ -4,4 +4,3 @@
 > I have included a copy of our requirements for the application to show which features were developed and implemented for our project.
 > 
 ![Functionalities](https://user-images.githubusercontent.com/88903387/162086918-f726ceb3-fb33-4ccb-8624-590b6bf6a3bb.png)
-![Functionalities](/Screenshots/Functionalities.PNG)
