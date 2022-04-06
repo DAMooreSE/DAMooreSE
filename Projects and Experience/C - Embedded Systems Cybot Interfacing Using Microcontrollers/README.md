@@ -1,6 +1,7 @@
-# Embedded Systems in Android Applications
-> This class consisted of weekly labs, where we used Java in Android Studio and SDK to create various small android applications such as a calculator, stopwatch, etc that built up to a final project where pairs of developers teamed up to create a larger and more fleshed out application. 
-> For our final project, my partner and I had a mutual need for a more powerful application for creating and editing lists so we designed and created a list application with various additional functionality compared to a basic list app.
-> I have included a copy of our requirements for the application to show which features were developed and implemented for our project.
+# Embedded Systems Cybot Interfacing Using Microcontrollers
+> Used C in weekly labs to develop applications to be run on an embedded system, a roomba robot with additional logic boards, as well as a final project where we developed an automated navigation program that allowed the robot to traverse an obstacle course to reach and stop on a specific part of the course.
+> I have included a copy of our final block diagram for the project as well as pictures of the roomba we programmed and an example obstacle course during the final project.
 > 
-![Functionalities](https://user-images.githubusercontent.com/88903387/162086918-f726ceb3-fb33-4ccb-8624-590b6bf6a3bb.png)
+![Final Block Diagram](https://user-images.githubusercontent.com/88903387/162087921-fc15e2f4-60c8-412d-bbc6-98427df319d2.jpg)
+![robot](https://user-images.githubusercontent.com/88903387/162087944-acd8c09e-d652-47fb-9e6b-d6d032f59d76.jpg)
+![course](https://user-images.githubusercontent.com/88903387/162087953-7e6eba73-3bdc-4825-b9c6-584c8320359b.jpg)
