@@ -1,6 +1,9 @@
-# Embedded Systems in Android Applications
-> This class consisted of weekly labs, where we used Java in Android Studio and SDK to create various small android applications such as a calculator, stopwatch, etc that built up to a final project where pairs of developers teamed up to create a larger and more fleshed out application. 
-> For our final project, my partner and I had a mutual need for a more powerful application for creating and editing lists so we designed and created a list application with various additional functionality compared to a basic list app.
-> I have included a copy of our requirements for the application to show which features were developed and implemented for our project.
-> 
-![Functionalities](https://user-images.githubusercontent.com/88903387/162086918-f726ceb3-fb33-4ccb-8624-590b6bf6a3bb.png)
+# Dungeon Destroyer Web Browser Game
+> Dungeon Destroyer was a rouge-lite 2D Dungeon Crawler Web Browser Game. Game developed using Phaser.IO engine that’s hosted locally using Node JS.
+> Team followed an agile-based development process where we’d meet every week to discuss what’s been worked on, what needs worked on, what problems we’re having, and what we need to work on before the next meeting as well meeting with a “client” every 2 weeks to demo the progress our team has made and implement the feedback into our development plan for the next meeting.
+> Project used Phaser.IO, HTML, and CSS for the front-end, and Javascript, Node JS, and Phaser.IO for the backend
+> Here are some screenshots of the home page, the character selection page, as well as a screenshot of the active game.
+
+![homepage](https://user-images.githubusercontent.com/88903387/162089572-b17dd220-9d52-4e0f-b1b2-b67846aa76f7.jpg)
+![selectacharacter](https://user-images.githubusercontent.com/88903387/162089577-0930be3c-861e-440d-beed-6fb48c03f8ad.jpg)
+![gameplay](https://user-images.githubusercontent.com/88903387/162089581-1df43542-9591-410d-b950-71cf1791f054.jpg)
