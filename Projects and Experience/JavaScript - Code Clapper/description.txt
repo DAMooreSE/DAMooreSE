@@ -1,0 +1,6 @@
+Code Clapper
+Contracted to develop a web application that has a recording utility run on a host machine that can be controlled remotely on another device. Project work includes standard software requirements gathering and documentation, meeting with a client, as well as using JavaScript, Node.JS, Firebase, React, Yarn, Microsoft Studio Code, git, and aperture to develop on MacOS
+Code Clapper is a web application that has a recording utility run on a host machine that can be controlled remotely on another device.
+The project consisted of two components, a recorder service and the User Interface application. The project development used Javascript for development and Yarn for project management and as a package manager. The User Interface application was built using React.js and deployed using Firebase. The recorder service and its API were built using React and uses ApertureJS, a JavaScript visualization framework supporting REST services, to record audio/video on the host machine. The recorder is controlled by the User Interface that utilizes the API extended by the recording service to access and control the recorder's functionality.
+
+A Demo: https://drive.google.com/file/d/1C88MhvPFFNii6Ma2jQ1Y-nTvTdZ9iTe5/view?usp=sharing

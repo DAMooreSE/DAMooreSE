@@ -1,0 +1,2 @@
+Com S 309: Software Development Practices - MG_4 UNO Android Application
+Class focused on using standard software development practices in small teams to develop some software application. Our team decided to develop an Android Application that allowed a user to play the UNO card game against either a computer or other players over a network connection. Spring boot and MySQL were also used in the development of the back-end.
