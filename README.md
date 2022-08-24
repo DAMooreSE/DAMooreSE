@@ -25,8 +25,8 @@ I had to take some time off after graduating in order to go through some surgeri
 **Experience**
 
 *Software Engineer - CodeClapper (October 2021 - Current)*
-I was contracted to be the sole software engineer working to develop Code Clapper, a web application that consists of a recording utility running on a host MacOS machine that can be controlled remotely from another device. Project work includes standard software requirements gathering and documentation, meeting with a client, as well as using JavaScript, Node.JS, Firebase, React, Yarn, Microsoft Visual Studio Code, Git, and Aperture-JS to develop a recording software application with expanded functionality that more easily allows the client to create pre-recorded lectures by reducing the amount of work needed for post-production.
-Project work can be found on github here https://github.com/DAMooreSE/codeClapper
+* I was contracted to be the sole software engineer working to develop Code Clapper, a web application that consists of a recording utility running on a host MacOS machine that can be controlled remotely from another device. Project work includes standard software requirements gathering and documentation, meeting with a client, as well as using JavaScript, Node.JS, Firebase, React, Yarn, Microsoft Visual Studio Code, Git, and Aperture-JS to develop a recording software application with expanded functionality that more easily allows the client to create pre-recorded lectures by reducing the amount of work needed for post-production.
+* Project work can be found on github here https://github.com/DAMooreSE/codeClapper
 
 
 
@@ -34,6 +34,6 @@ Project work can be found on github here https://github.com/DAMooreSE/codeClappe
 **Education**
 
 *BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING, Iowa State University of Science and Technology*
-Graduated with a bachelor’s degree in Software Engineering at Iowa State University in December of 2020. Coursework included the understanding and use of the Java, C, C++, MATLAB, MySQL, Blockchain, Docker, JavaScript, React, Node.JS, HTML5, Spring Boot, JSON, git, and Python programming software and languages, with courses specializing in object-oriented programming, data structures, cyber security, data management/manipulation, software architecture development, as well as studying algorithms and their efficiencies.
+* Graduated with a bachelor’s degree in Software Engineering at Iowa State University in December of 2020. Coursework included the understanding and use of the Java, C, C++, MATLAB, MySQL, Blockchain, Docker, JavaScript, React, Node.JS, HTML5, Spring Boot, JSON, git, and Python programming software and languages, with courses specializing in object-oriented programming, data structures, cyber security, data management/manipulation, software architecture development, as well as studying algorithms and their efficiencies.
 
-My senior design project where I worked with in a team of developers that followed standard development practices to develop a blockchain network that was able to support the migration of public energy delivery systems, can be found here: https://sdmay20-12.sd.ece.iastate.edu/
+* My senior design project where I worked with in a team of developers that followed standard development practices to develop a blockchain network that was able to support the migration of public energy delivery systems, can be found here: https://sdmay20-12.sd.ece.iastate.edu/
